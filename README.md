@@ -17,25 +17,25 @@
 #### Perangkat yang Digunakan :
 <table>
   <tr>
-    <td width="50%">
+    <td width="35%">
       <h3>💻 Visual Studio Code</h3>
       Editor untuk menulis kode PHP.
     </td>
-    <td width="50%">
+    <td width="35%">
       <h3>⚙️ XAMPP</h3>
       Server lokal untuk menjalankan PHP.
     </td>
-    <td width="50%">
+    <td width="35%">
       <h3>🐘 PHP</h3>
       Bahasa pemrograman server side
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="35%">
       <h3> 🪶 Apache </h3>
       Web Server 
     </td>
-    <td width="50%">
+    <td width="35%">
       <h3> 🌐  Google Chrome</h3>
       Menampilkan hasil program
     </td>
