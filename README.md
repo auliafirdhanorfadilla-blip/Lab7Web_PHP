@@ -65,3 +65,11 @@ Lab7Web_PHP/
     ├── latihan7.png
     ├── mini-project-valid.png
     └── mini-project-invalid.png
+
+
+#### Ringkasan 
+Praktikum ini menghasilkan beberapa program sederhana menggunakan PHP, mulai dari menampilkan teks, penggunaan variabel dan percabangan, perulangan dan array, function, pemrosesan form GET dan POST, hingga pengolahan data transaksi.
+
+Selain itu, dibuat mini project formulir data mahasiswa yang menggunakan metode POST, validasi input di sisi server, serta fungsi htmlspecialchars() untuk menjaga keamanan output.
+
+Dari praktikum ini, dapat dipahami bahwa PHP digunakan untuk memproses data pada sisi server dan membantu membangun aplikasi web yang dinamis.
