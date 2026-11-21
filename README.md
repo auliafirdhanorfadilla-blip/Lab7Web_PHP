@@ -138,6 +138,54 @@ Lab7Web_PHP/
   <b>✨ LEARN • PRACTICE • BUILD ✨</b>
 </p> 
 
+## 📸 Dokumentasi Hasil Praktikum
+
+Berikut merupakan hasil pengerjaan setiap latihan yang telah dijalankan melalui localhost menggunakan XAMPP.
+
+### 1. Latihan 1 – Pengenalan PHP
+
+Menampilkan output sederhana menggunakan perintah `echo` pada PHP.
+
+![Latihan 1](ss/ss1.png)
+
+### 2. Latihan 2 – Variabel PHP
+
+Menampilkan penggunaan variabel untuk menyimpan dan mengolah data.
+
+![Latihan 2](ss/ss2.png)
+
+### 3. Latihan 3 – Tipe Data PHP
+
+Menampilkan beberapa jenis tipe data yang digunakan dalam PHP.
+
+![Latihan 3](ss/ss3.png)
+
+### 4. Latihan 4 – Operator PHP
+
+Menampilkan penggunaan operator untuk melakukan proses perhitungan.
+
+![Latihan 4](ss/ss4.png)
+
+### 5. Latihan 5 – Percabangan PHP
+
+Menampilkan hasil program berdasarkan kondisi tertentu menggunakan percabangan.
+
+![Latihan 5](ss/ss5.png)
+
+### 6. Latihan 6 – Perulangan PHP
+
+Menampilkan proses perulangan untuk menjalankan instruksi secara berulang.
+
+![Latihan 6](ss/ss6.png)
+
+### 7. Latihan 7 – Form dan Validasi
+
+Menampilkan form input serta proses validasi data yang dimasukkan pengguna.
+
+![Latihan 7](ss/ss7.png)
+
+---
+
 
 #### Ringkasan 
 Praktikum ini menghasilkan beberapa program sederhana menggunakan PHP, mulai dari menampilkan teks, penggunaan variabel dan percabangan, perulangan dan array, function, pemrosesan form GET dan POST, hingga pengolahan data transaksi.
